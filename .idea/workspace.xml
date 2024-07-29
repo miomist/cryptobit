@@ -4,21 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="611004f2-1d0e-410d-8a6f-a0aa1abdfa39" name="Changes" comment="Lesson 2. Установка Django. Создание requirements.txt. Запуск проекта cryptobit.">
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/views.py" afterDir="false" />
+    <list default="true" id="611004f2-1d0e-410d-8a6f-a0aa1abdfa39" name="Changes" comment="Lesson 3. Запуск приложения crypto_news.">
+      <change afterPath="$PROJECT_DIR$/cryptobit/crypto_news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptobit/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selfedu_cryptobit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selfedu_cryptobit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptobit/cryptobit/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobit/cryptobit/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobit/crypto_news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobit/crypto_news/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptobit/cryptobit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptobit/cryptobit/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -112,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722279365358</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 3. Запуск приложения crypto_news.">
+      <option name="closed" value="true" />
+      <created>1722279911554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722279911554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +142,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Lesson 1. Создание git-репозитория." />
     <MESSAGE value="Lesson 2. Установка Django. Создание requirements.txt. Запуск проекта cryptobit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 2. Установка Django. Создание requirements.txt. Запуск проекта cryptobit." />
+    <MESSAGE value="Lesson 3. Запуск приложения crypto_news." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3. Запуск приложения crypto_news." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
